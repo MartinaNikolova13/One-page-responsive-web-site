@@ -1,5 +1,5 @@
 # One-page-responsive-web-site
-Уебсайтът „Малки герои“ е онлайн платформа, предназначена за детска занималня, където родителите могат да се информират за нашите услуги, да видят екипа ни, да прочетат новини и да се свържат с нас чрез форма за контакт. Сайтът е адаптивен и осигурява добро потребителско изживяване на различни устройства. Проектът има за цел да предостави интуитивен и визуално привлекателен уебсайт за детска занималня „Малки герои“. Той съдържа основни раздели, включително информация за мисията на занималнята, екипа, новини и начините за контакт. Използвани са следните технологии: HTML5, CSS, JavaScript.
+The "Little Heroes" website is an online platform designed for a children's activity center, where parents can learn about our services, meet our team, read news, and contact us through a contact form. The website is responsive and provides a great user experience across various devices. The project aims to deliver an intuitive and visually appealing website for the "Little Heroes" activity center. It includes essential sections such as information about the center's mission, the team, news, and contact options. The following technologies were used: HTML5, CSS, and JavaScript.
 
-Автор: Мартина Николова
+Author: Martina Nikolova
 
